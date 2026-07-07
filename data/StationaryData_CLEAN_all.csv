@@ -1,0 +1,98 @@
+FileName,ReceiverID,Array,deploy_time,retrieve_time,RefTagID,Type,Status,DeploymentDate,DeploymentTime,Depth,Latitude,Longitude,DeploymentCrew,DeploymentNotes,RetrievalDate,RetrievalTime,RetrievalNotes,rkm
+BeaverCreekTrib_004SB,004SB,BeaverCreekTrib,2026-06-11T13:21:00Z,NA,NA,3017,Deployed,2026-06-11,05:21:00,NA,60.540263,-151.146518,"Dave,Danielle,Megan",Beaver Creek Trib,NA,NA,NA,NA
+BeaverCreek_065,065,BeaverCreek,2026-05-18T13:13:00Z,2026-06-24T10:14:00Z,04AD,3001,Retrieved,2026-05-18,05:13:00,NA,60.538373,-151.147268,"Stacey,Megan,Danielle",No grapple,2026-06-24,02:14:00,NA,16.36
+BeaverCreek_065,065,BeaverCreek,2026-06-24T10:25:00Z,NA,04AD,3001,Deployed,2026-06-24,02:25:00,NA,60.537963,-151.147875,"Danielle,Megan,Sophie",NA,NA,NA,NA,16.36
+BigEddy_005,005,BigEddy,2026-06-06T15:04:00Z,2026-06-24T13:38:00Z,0559,3001,Retrieved,2026-06-06,07:04:00,NA,60.50855,-151.09113,"Stacey,Megan,Danielle",NA,2026-06-24,05:38:00,NA,23.43
+BigEddy_005,005,BigEddy,2026-06-24T13:52:00Z,NA,0565,3001,Deployed,2026-06-24,05:52:00,NA,60.509068,-151.091376,"Danielle,Megan,Sophie",NA,NA,NA,NA,23.43
+BigEddy_010,010,BigEddy,2026-05-18T13:46:00Z,2026-06-24T15:20:59Z,04B5,3001,Retrieved,2026-05-18,05:46:00,NA,60.509068,-151.091376,"Stacey,Megan,Danielle",NA,2026-06-24,07:20:59,NA,23.43
+BigEddy_010,010,BigEddy,2026-06-24T15:33:00Z,2026-07-01T12:24:00Z,04B5,3001,Retrieved,2026-06-24,07:33:00,NA,60.509271,-151.091035,"Danielle,Megan,Sophie",NA,2026-07-01,04:24:00,Dragged downstream to gravel bar below rocks. SD card not pulled during this retrieval.,23.43
+BigEddy_010,010,BigEddy,2026-07-01T12:31:00Z,NA,04B5,3001,Deployed,2026-07-01,04:31:00,NA,60.509059,-151.091371,"Megan,Danielle,Nicole",NA,NA,NA,NA,23.43
+Cunningham_051,051,Cunningham,2026-05-19T12:07:00Z,2026-06-24T10:59:00Z,04D5,3001,Retrieved,2026-05-19,04:07:00,NA,60.538795,-151.175871,"Stacey,Megan,Danielle","Grapple, no buoy",2026-06-24,02:59:00,NA,10.84
+Cunningham_051,051,Cunningham,2026-06-24T11:23:00Z,NA,04D5,3001,Deployed,2026-06-24,03:23:00,NA,60.538609,-151.174587,"Danielle,Megan,Sophie",NA,NA,NA,NA,10.84
+Cunningham_056,056,Cunningham,2026-05-19T12:13:00Z,2026-06-24T11:32:00Z,08AD,3001,Retrieved,2026-05-19,04:13:00,NA,60.538606,-151.17625,"Stacey,Megan,Danielle",NA,2026-06-24,03:32:00,NA,10.84
+Cunningham_056,056,Cunningham,2026-06-24T11:48:00Z,NA,08AD,3001,Deployed,2026-06-24,03:48:00,NA,60.538772,-151.176307,"Danielle,Megan,Sophie",NA,NA,NA,NA,10.84
+Cunningham_075,075,Cunningham,2026-05-19T10:32:00Z,2026-05-28T14:32:59Z,2546,3001,Retrieved,2026-05-19,02:32:00,NA,60.538952,-151.175501,"Stacey,Megan,Danielle",NA,2026-05-28,06:32:59,"Retrieved from downriver, caught on log, Check nearby receivers for approximate date of removal",10.84
+Cunningham_075,075,Cunningham,2026-05-28T14:32:59Z,2026-06-24T10:40:00Z,2546,3001,Retrieved,2026-05-28,06:32:59,NA,60.538609,-151.174587,"Danielle,Megan","Redeployed from downriver, reciever was stuck on a log",2026-06-24,02:40:00,NA,10.84
+Cunningham_075,075,Cunningham,2026-06-24T10:57:00Z,NA,0458,3001,Deployed,2026-06-24,02:57:00,NA,60.538761,-151.174502,"Danielle,Megan,Sophie",NA,NA,NA,NA,10.84
+EagleRock_029,029,EagleRock,2026-05-18T12:59:00Z,2026-06-24T09:47:00Z,06B5,3001,Retrieved,2026-05-18,04:59:00,NA,60.547418,-151.116942,"Stacey,Megan,Danielle",NA,2026-06-24,01:47:00,Got pulled to a sand bar below Eagle Rock. Not sure what time but maybe can gleam from tilt data.,18.4
+EagleRock_029,029,EagleRock,2026-06-24T10:05:00Z,NA,06B5,3001,Deployed,2026-06-24,02:05:00,NA,60.547418,-151.116942,"Danielle,Megan,Sophie",NA,NA,NA,NA,18.4
+FirstBend_038,038,FirstBend,2026-05-19T11:23:00Z,NA,055D,3001,Deployed,2026-05-19,03:23:00,NA,60.521461,-151.240821,"Stacey,Megan,Danielle",NA,NA,NA,NA,6.03
+FirstBend_080,080,FirstBend,2026-05-19T11:19:59Z,NA,0695,3001,Deployed,2026-05-19,03:19:59,NA,60.520718,-151.241295,"Stacey,Megan,Danielle",NA,NA,NA,NA,6.03
+FirstCannery_042,042,FirstCannery,2026-05-20T11:30:00Z,NA,0957,3001,Deployed,2026-05-20,03:30:00,NA,60.53903,-151.2513,"Dan,Brian,Megan",NA,NA,NA,NA,3.9
+FirstCannery_073,073,FirstCannery,2026-05-20T11:19:59Z,NA,054B,3001,Deployed,2026-05-20,03:19:59,NA,60.53914,-151.25232,"Dan,Brian,Megan",Buoy,NA,NA,NA,3.9
+FunnyRiver_003SB,003SB,FunnyRiver,2026-06-11T10:41:00Z,NA,NA,3017,Deployed,2026-06-11,02:41:00,NA,60.490014,-150.860542,"Dave,Danielle,Megan",Funny River Trib,NA,NA,NA,NA
+KenaiCanyon_039,039,KenaiCanyon,2026-06-02T12:09:00Z,NA,06A9,3001,Deployed,2026-06-02,04:09:00,11,60.458277,-150.163611,"Dan,Johnna",Set 10 m out from rock wall with single spruce snag,NA,NA,NA,107.93
+KeyesProperty_063,063,KeyesProperty,2026-05-18T13:36:00Z,2026-06-29T11:23:00Z,052B,3001,Retrieved,2026-05-18,05:36:00,5,60.48153,-150.61356,"Dan,Dave,Stacey","Grappel, in-line with management marker",2026-06-29,03:23:00,NA,72.62
+KeyesProperty_063,063,KeyesProperty,2026-06-29T11:32:59Z,NA,0525,3001,Deployed,2026-06-29,03:32:59,3.3,60.481479,-150.613977,"Dan,Madi,Nicole",NA,NA,NA,NA,72.62
+Marine_001,001,Marine,2026-06-10T13:00:00Z,NA,0655,3001,Deployed,2026-06-10,05:00:00,5.9,60.536555,-151.306464,"Dan,Tony,Andy,Psy","longline, no time taken for other 06/10/2026 deployments, stlightly off gps",NA,NA,NA,-2.4
+Marine_003,003,Marine,2026-06-05T08:03:00Z,2026-06-09T10:25:00Z,0595,3001,Retrieved,2026-06-05,00:03:00,6.8,60.539736,-151.308342,"Tony,Talise,Brian,Andy,Dan","ziptie, single",2026-06-09,02:25:00,Moved to new location without sd swap. Edit raw file later,-2.4
+Marine_003,003,Marine,2026-06-09T10:42:00Z,NA,0595,3001,Deployed,2026-06-09,02:42:00,5.7,60.545845,-151.307352,"Tony,Talise,Brian,Andy,Dan","ziptie, single",NA,NA,NA,-2.4
+Marine_004,004,Marine,2026-06-05T08:40:00Z,NA,0495,3001,Deployed,2026-06-05,00:40:00,5.4,60.554324,-151.297109,"Tony,Talise,Brian,Andy,Dan","twine, single",NA,NA,NA,-2.4
+Marine_008,008,Marine,2026-06-10T13:00:00Z,NA,094B,3001,Deployed,2026-06-10,05:00:00,6.31,60.539679,-151.308218,"Dan,Tony,Andy,Psy","longline, no time taken for other 06/10/2026 deployments, hydrophone was loose and tightened",NA,NA,NA,-2.4
+Marine_009,009,Marine,2026-06-09T11:29:00Z,NA,05B5,3001,Deployed,2026-06-09,03:29:00,6.1,60.532228,-151.301063,"Tony,Talise,Brian,Andy,Dan",longline,NA,NA,NA,-2.4
+Marine_009,009,Marine,2026-06-09T11:32:59Z,NA,02B5,3001,Deployed,2026-06-09,03:32:59,5.8,60.534313,-151.304135,"Tony,Talise,Brian,Andy,Dan","longline, no ziptie holder",NA,NA,NA,-2.4
+Marine_011,011,Marine,2026-06-05T08:13:00Z,NA,0525,3001,Deployed,2026-06-05,00:13:00,6.3,60.5484,-151.305431,"Tony,Talise,Brian,Andy,Dan","ziptie, single",NA,NA,NA,-2.4
+Marine_013,013,Marine,2026-06-05T07:34:00Z,NA,0975,3001,Deployed,2026-06-04,23:34:00,7,60.528861,-151.293775,"Tony,Talise,Brian,Andy,Dan","ziptie, single",NA,NA,NA,-2.4
+Marine_016,016,Marine,2026-06-09T11:06:59Z,NA,056B,3001,Deployed,2026-06-09,03:06:59,6.3,60.54375,-151.30844,"Tony,Talise,Brian,Andy,Dan",longline,NA,NA,NA,-2.4
+Marine_017,017,Marine,2026-06-10T13:00:00Z,NA,0557,3001,Deployed,2026-06-10,05:00:00,5.9,60.540658,-151.30859,"Dan,Tony,Andy,Psy","longline, no time taken for other 06/10/2026 deployments",NA,NA,NA,-2.4
+Marine_018,018,Marine,2026-06-10T13:00:00Z,NA,0529,3001,Deployed,2026-06-10,05:00:00,5.9,60.535598,-151.305853,"Dan,Tony,Andy,Psy","longline, no time taken for other 06/10/2026 deployments",NA,NA,NA,-2.4
+Marine_019,019,Marine,2026-06-05T07:29:00Z,NA,AB55,3001,Deployed,2026-06-04,23:29:00,7.3,60.527987,-151.290543,"Tony,Talise,Brian,Andy,Dan","ziptie, single",NA,NA,NA,-2.4
+Marine_021,021,Marine,2026-06-09T11:05:00Z,NA,0995,3001,Deployed,2026-06-09,03:05:00,6.5,60.542795,-151.308468,"Tony,Talise,Brian,Andy,Dan",longline,NA,NA,NA,-2.4
+Marine_023,023,Marine,2026-06-05T07:23:00Z,NA,0935,3001,Deployed,2026-06-04,23:23:00,7.2,60.527469,-151.287178,"Tony,Talise,Brian,Andy,Dan","ziptie, single",NA,NA,NA,-2.4
+Marine_024,024,Marine,2026-06-05T07:26:00Z,NA,08B5,3001,Deployed,2026-06-04,23:26:00,7.3,60.52767,-151.289037,"Tony,Talise,Brian,Andy,Dan","ziptie, single",NA,NA,NA,-2.4
+Marine_025,025,Marine,2026-06-05T07:11:00Z,NA,094D,3001,Deployed,2026-06-04,23:11:00,5.8,60.52661,-151.281767,"Tony,Talise,Brian,Andy,Dan","ziptie broke at deployment, single",NA,NA,NA,-2.4
+Marine_028,028,Marine,2026-06-05T08:26:00Z,NA,05A9,3001,Deployed,2026-06-05,00:26:00,6.2,60.551634,-151.301666,"Tony,Talise,Brian,Andy,Dan","twine, single",NA,NA,NA,-2.4
+Marine_030,030,Marine,2026-06-05T07:20:00Z,NA,0929,3001,Deployed,2026-06-04,23:20:00,6.7,60.527175,-151.2853423,"Tony,Talise,Brian,Andy,Dan","ziptie, single",NA,NA,NA,-2.4
+Marine_031,031,Marine,2026-06-05T07:41:00Z,NA,09A5,3001,Deployed,2026-06-04,23:41:00,6.9,60.529935,-151.297157,"Tony,Talise,Brian,Andy,Dan","ziptie, single",NA,NA,NA,-2.4
+Marine_032,032,Marine,2026-06-05T07:56:00Z,2026-06-09T10:31:00Z,0569,3001,Retrieved,2026-06-04,23:56:00,6.9,60.537917,-151.307512,"Tony,Talise,Brian,Andy,Dan","ziptie, single",2026-06-09,02:31:00,Moved to new location without sd swap. Edit raw file later,-2.4
+Marine_032,032,Marine,2026-06-09T10:38:00Z,NA,D569,3001,Deployed,2026-06-09,02:38:00,6.6,60.547695,-151.30626,"Tony,Talise,Brian,Andy,Dan",twine tangled in line,NA,NA,NA,-2.4
+Marine_033,033,Marine,2026-06-05T08:32:59Z,NA,0969,3001,Deployed,2026-06-05,00:32:59,5.7,60.552928,-151.299556,"Tony,Talise,Brian,Andy,Dan","twine, single",NA,NA,NA,-2.4
+Marine_034,034,Marine,2026-06-09T11:09:00Z,NA,054D,3001,Deployed,2026-06-09,03:09:00,6,60.544582,-151.308331,"Tony,Talise,Brian,Andy,Dan","longline, section of line ziptied",NA,NA,NA,-2.4
+Marine_035,035,Marine,2026-06-05T08:30:00Z,NA,0855,3001,Deployed,2026-06-05,00:30:00,5.9,60.552316,-151.300612,"Tony,Talise,Brian,Andy,Dan","twine, single",NA,NA,NA,-2.4
+Marine_036,036,Marine,2026-06-05T07:59:00Z,2026-06-09T10:28:00Z,09B5,3001,Retrieved,2026-06-04,23:59:00,6.6,60.538798,-151.307919,"Tony,Talise,Brian,Andy,Dan","ziptie, single",2026-06-09,02:28:00,Moved to new location without sd swap. Edit raw file later,-2.4
+Marine_036,036,Marine,2026-06-09T10:41:00Z,NA,09B5,3001,Deployed,2026-06-09,02:41:00,5.8,60.546937,-151.306831,"Tony,Talise,Brian,Andy,Dan","ziptie, single",NA,NA,NA,-2.4
+Marine_040,040,Marine,2026-06-05T07:15:00Z,NA,0549,3001,Deployed,2026-06-04,23:15:00,6.3,60.526833,-151.283626,"Tony,Talise,Brian,Andy,Dan","ziptie, single",NA,NA,NA,-2.4
+Marine_044,044,Marine,2026-06-05T08:19:59Z,NA,04AB,3001,Deployed,2026-06-05,00:19:59,6,60.549995,-151.303818,"Tony,Talise,Brian,Andy,Dan","twine, single",NA,NA,NA,-2.4
+Marine_047,047,Marine,2026-06-10T13:00:00Z,NA,0155,3001,Deployed,2026-06-10,05:00:00,6,60.537354,-151.30653,"Dan,Tony,Andy,Psy","longline, no time taken for other 06/10/2026 deployments",NA,NA,NA,-2.4
+Marine_048,048,Marine,2026-06-05T07:44:00Z,NA,0575,3001,Deployed,2026-06-04,23:44:00,6.8,60.53047,-151.298435,"Tony,Talise,Brian,Andy,Dan","ziptie, single",NA,NA,NA,-2.4
+Marine_052,052,Marine,2026-06-09T11:02:00Z,NA,092D,3001,Deployed,2026-06-09,03:02:00,6,60.541664,-151.308578,"Tony,Talise,Brian,Andy,Dan",longline,NA,NA,NA,-2.4
+Marine_054,054,Marine,2026-06-10T12:15:00Z,NA,054,3001,Deployed,2026-06-10,04:15:00,5.8,60.534752,-151.305243,"Dan,Tony,Andy,Psy",longline,NA,NA,NA,-2.4
+Marine_058,058,Marine,2026-06-09T11:32:00Z,NA,09AB,3001,Deployed,2026-06-09,03:32:00,6.3,60.533511,-151.302927,"Tony,Talise,Brian,Andy,Dan",longline,NA,NA,NA,-2.4
+Marine_060,060,Marine,2026-06-10T13:00:00Z,NA,0545,3001,Deployed,2026-06-10,05:00:00,6,60.538861,-151.30813,"Dan,Tony,Andy,Psy","longline, no time taken for other 06/10/2026 deployments",NA,NA,NA,-2.4
+Marine_066,066,Marine,2026-06-05T07:31:00Z,NA,02D5,3001,Deployed,2026-06-04,23:31:00,7.2,60.528419,-151.292508,"Tony,Talise,Brian,Andy,Dan","ziptie, single",NA,NA,NA,-2.4
+Marine_067,067,Marine,2026-06-05T07:47:00Z,NA,0575,3001,Deployed,2026-06-04,23:47:00,6.8,60.531091,-151.299772,"Tony,Talise,Brian,Andy,Dan","ziptie, single",NA,NA,NA,-2.4
+Marine_068,068,Marine,2026-06-05T08:06:00Z,2026-06-09T10:20:00Z,06AD,3001,Retrieved,2026-06-05,00:06:00,6.4,60.540609,-151.308448,"Tony,Talise,Brian,Andy,Dan","ziptie, single",2026-06-09,02:20:00,Moved to new location without sd swap. Edit raw file later,-2.4
+Marine_068,068,Marine,2026-06-09T10:44:00Z,NA,06AD,3001,Deployed,2026-06-09,02:44:00,5.9,60.544984,-151.307797,"Tony,Talise,Brian,Andy,Dan","ziptie, single",NA,NA,NA,-2.4
+Marine_070,070,Marine,2026-06-05T08:16:00Z,NA,096D,3001,Deployed,2026-06-05,00:16:00,6.3,60.549226,-151.304691,"Tony,Talise,Brian,Andy,Dan","twine broke off, single",NA,NA,NA,-2.4
+Marine_071,071,Marine,2026-06-05T07:37:00Z,NA,06A5,3001,Deployed,2026-06-04,23:37:00,6.8,60.529335,-151.295509,"Tony,Talise,Brian,Andy,Dan","ziptie, single",NA,NA,NA,-2.4
+Marine_072,072,Marine,2026-06-05T08:42:00Z,NA,0959,3001,Deployed,2026-06-05,00:42:00,6.4,60.55492,-151.295805,"Tony,Talise,Brian,Andy,Dan","twine, single",NA,NA,NA,-2.4
+Marine_076,076,Marine,2026-06-05T08:23:00Z,NA,08A9,3001,Deployed,2026-06-05,00:23:00,6.2,60.550803,-151.30279,"Tony,Talise,Brian,Andy,Dan","twine, single",NA,NA,NA,-2.4
+Marine_077,077,Marine,2026-06-05T08:37:00Z,NA,04A9,3001,Deployed,2026-06-05,00:37:00,5.5,60.553582,-151.298423,"Tony,Talise,Brian,Andy,Dan","twine, single",NA,NA,NA,-2.4
+Marine_078,078,Marine,2026-06-10T13:00:00Z,NA,052D,3001,Deployed,2026-06-10,05:00:00,6,60.537919,-151.307683,"Dan,Tony,Andy,Psy","longline, no time taken for other 06/10/2026 deployments",NA,NA,NA,-2.4
+Marine_079,079,Marine,2026-06-09T11:30:00Z,NA,0895,3001,Deployed,2026-06-09,03:30:00,5.8,60.532891,-151.302103,"Tony,Talise,Brian,Andy,Dan",longline,NA,NA,NA,-2.4
+MorgansLanding_014,014,MorgansLanding,2026-06-04T12:10:00Z,NA,0945,3001,Deployed,2026-06-04,04:10:00,NA,60.49649,-150.8629,"Stacey,Megan,Danielle","Grappel only, need to change line. Receiver between two platforms.",NA,NA,NA,50.38
+Mouth_015,015,Mouth,2026-05-20T10:20:00Z,2026-07-01T12:09:00Z,02AD,3001,Retrieved,2026-05-20,02:20:00,NA,60.54782,-151.26027,"Dan,Brian,Megan",Buoy,2026-07-01,04:09:00,"Tree dragged receiver out of position. Collected at: 60.54502, -151.26922",0.08
+Mouth_015,015,Mouth,2026-07-01T12:49:00Z,NA,02AD,3001,Deployed,2026-07-01,04:49:00,0,60.547868,-151.259633,Dan,Duck bill,NA,NA,NA,0.08
+Mouth_059,059,Mouth,2026-05-20T10:15:00Z,2026-07-01T09:23:00Z,08A5,3001,Retrieved,2026-05-20,02:15:00,NA,60.54956,-151.26106,"Dan,Brian,Megan",Buoy,2026-07-01,01:23:00,Was dragged 100 m upriver. SD card not seeded at retrieval,0.08
+Mouth_059,059,Mouth,2026-07-01T09:31:00Z,NA,08A5,3001,Deployed,2026-07-01,01:31:00,NA,60.549559,-151.261375,"Megan,Danielle,Nicole",NA,NA,NA,NA,0.08
+Mouth_062,062,Mouth,2026-05-20T10:50:00Z,2026-07-01T11:00:00Z,0951,3001,Retrieved,2026-05-20,02:50:00,NA,60.54839,-151.26018,"Dan,Brian,Megan",Even with yellow management marker,2026-07-01,03:00:00,NA,0.08
+Mouth_062,062,Mouth,2026-07-01T11:05:00Z,NA,0451,3001,Deployed,2026-07-01,03:05:00,NA,60.548395,-151.260161,"Megan,Danielle,Nicole",NA,NA,NA,NA,0.08
+Mouth_064,064,Mouth,2026-05-20T10:41:00Z,2026-07-01T09:49:59Z,05D5,3001,Retrieved,2026-05-20,02:41:00,NA,60.54871,-151.26068,"Dan,Brian,Megan",Even with yellow management marker,2026-07-01,01:49:59,NA,0.08
+Mouth_064,064,Mouth,2026-07-01T11:06:59Z,NA,05D5,3001,Deployed,2026-07-01,03:06:59,NA,60.54871,-151.260564,"Megan,Danielle,Nicole",NA,NA,NA,NA,0.08
+Naptown_055,055,Naptown,2026-06-05T13:18:59Z,NA,0559,3001,Deployed,2026-06-05,05:18:59,NA,60.51869,-150.71826,"Stacey,Megan,Danielle","Grappel only, need to change out line.",NA,NA,NA,63.03
+SkilakInlet_037,037,SkilakInlet,2026-06-02T11:41:00Z,NA,0553,3001,Deployed,2026-06-02,03:41:00,16,60.445771,-150.170163,"Dan,Johnna",Grapple line laid across eddy towards opposite shore,NA,NA,NA,106.46
+SkilakOutlet_005,005,SkilakOutlet,2026-06-29T14:32:00Z,NA,0565,3001,Deployed,2026-06-29,06:32:00,2.5,60.467561,-150.523246,"Dan,Madi,Nicole",NA,NA,NA,NA,82.05
+SkilakOutlet_022,022,SkilakOutlet,2026-06-05T10:41:00Z,2026-06-29T14:24:00Z,0965,3001,Retrieved,2026-06-05,02:41:00,NA,60.46761,-150.52307,"Stacey,Megan,Danielle",NA,2026-06-29,06:24:00,Water inside the receiver body,82.05
+SkilakOutlet_061,061,SkilakOutlet,2026-06-05T10:33:00Z,2026-06-29T14:12:00Z,0925,3001,Retrieved,2026-06-05,02:33:00,NA,60.46797,-150.52348,"Stacey,Megan,Danielle",NA,2026-06-29,06:12:00,NA,82.05
+SkilakOutlet_061,061,SkilakOutlet,2026-06-29T14:19:00Z,NA,0925,3001,Deployed,2026-06-29,06:19:00,NA,60.467903,-150.523672,"Dan,Madi,Nicole",NA,NA,NA,NA,82.05
+Slikok_001SB,001SB,Slikok,2026-06-11T12:14:00Z,NA,NA,3017,Deployed,2026-06-11,04:14:00,NA,60.482295,-151.126997,"Dave,Danielle,Megan",Slikok Creek,NA,NA,NA,NA
+SoldotnaBridge_026,026,SoldotnaBridge,2026-05-18T14:27:00Z,2026-07-01T13:34:00Z,0915,3001,Retrieved,2026-05-18,06:27:00,NA,60.476875,-151.081744,"Stacey,Megan,Danielle",No grapple,2026-07-01,05:34:00,NA,34.38
+SoldotnaBridge_026,026,SoldotnaBridge,2026-07-01T13:54:00Z,NA,0915,3001,Deployed,2026-07-01,05:54:00,NA,60.476899,-151.081542,"Megan,Danielle,Nicole",NA,NA,NA,NA,34.38
+ThirdHole_027,027,ThirdHole,2026-05-18T13:18:59Z,2026-06-29T10:57:00Z,0255,3001,Retrieved,2026-05-18,05:18:59,12,60.49,-150.62,"Dan,Dave,Stacey",NA,2026-06-29,02:57:00,NA,70.58
+ThirdHole_027,027,ThirdHole,2026-06-29T11:08:00Z,NA,0255,3001,Deployed,2026-06-29,03:08:00,4.6,60.488096,-150.621056,"Dan,Madi,Nicole",NA,NA,NA,NA,70.58
+WarrenAmes_020,020,WarrenAmes,2026-05-19T11:43:00Z,2026-06-24T12:27:00Z,02A9,3001,Retrieved,2026-05-19,03:43:00,NA,60.526687,-151.207185,"Stacey,Megan,Danielle",No grapple,2026-06-24,04:27:00,NA,8.11
+WarrenAmes_020,020,WarrenAmes,2026-06-24T12:36:59Z,NA,02A9,3001,Deployed,2026-06-24,04:36:59,NA,60.52669,-151.20719,"Danielle,Megan,Sophie",No grappel,NA,NA,NA,8.11
+WarrenAmes_045,045,WarrenAmes,2026-05-19T10:55:00Z,2026-06-24T12:41:00Z,09AD,3001,Retrieved,2026-05-19,02:55:00,NA,60.527365,-151.207512,"Stacey,Megan,Danielle",NA,2026-06-24,04:41:00,NA,8.11
+WarrenAmes_045,045,WarrenAmes,2026-06-24T12:49:00Z,NA,09AD,3001,Deployed,2026-06-24,04:49:00,NA,60.52737,-151.20751,"Danielle,Megan,Sophie",NA,NA,NA,NA,8.11
+WarrenAmes_053,053,WarrenAmes,2026-05-19T10:57:00Z,2026-06-24T12:13:00Z,08AB,3001,Retrieved,2026-05-19,02:57:00,NA,60.526253,-151.206977,"Stacey,Megan,Danielle",NA,2026-06-24,04:13:00,Tree dragged receiver ~400 meters down river on river right. Maybe check tilt to determine date of detatchment.,8.11
+WarrenAmes_053,053,WarrenAmes,2026-06-24T12:25:00Z,NA,08AB,3001,Deployed,2026-06-24,04:25:00,NA,60.52625,-151.20698,"Danielle,Megan,Sophie",NA,NA,NA,NA,8.11
